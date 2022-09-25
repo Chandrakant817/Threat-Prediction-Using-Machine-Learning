@@ -19,3 +19,19 @@ outdated software/system and automated attacks by malicious bots.
 • The main aim is to analysis and detect the malicious actors and his attack pattern.
 
 • Prediction of the pattern so that the know attack can be mitigated.
+
+## Objective
+• To use free and open-source technologies and methods to reduce the amount of manual intervention needed to add to or modify high-interaction honeypots.
+
+• Identify malicious IP addresses and vulnerabilities being exploited, so that they can be patched as quickly as possible.
+
+• Discover users that exhibit risky behaviour way before they execute the in tended harm to the network.
+
+• Deploy a number of decoys to lure attackers that get past other defenses.
+
+• To detect attack patterns using machine learning and come out with so lution to mitigate the attacks.
+
+##  Conclusion:
+The research designed and implemented a real-time Honeynet system using Machine learning for detecting and preventing system attacks. System services on Apache Webserver, MYSQL,FTP and SMTP were used to lure attackers.The problem nowadays is that a very good hacker will most likely be able to understand when he is attacking a honeypot. Low interaction honeypots will be able to identify mostly automated attack and will hardly be able to understand new hacker method. On the other hand, high interaction systems are here to entrap the hacker and make him give away his techniques and tools to the forensic team. The network administrator implementing this kind of honeypot should make sure that the system is completely isolated from the production network. This is the best defense if the hacker compromises the honeypot.
+
+We have proposed a machine learning model to classify SSH attacks based on the attack nature. 
