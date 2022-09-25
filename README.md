@@ -10,11 +10,12 @@ systems. Thus we look at multiple techniques for different scenarios and advanta
 
 ##                          PROBLEM STATEMENT:
 Network systems contain valuable data and resources that must be protected from attackers. Security experts often use honeypots and honeynets to protect network systems.
-Honeypot is an outstanding technology that security experts use to tap new hacking techniques from attackers and intruders.The purpose of Honeypot systems is to log every possible malicious activity
-of an attacker depending on the type of Honeypot system implemented within infrastructure.
+Honeypot is an outstanding technology that security experts use to tap new hacking techniques from attackers and intruders.The purpose of Honeypot systems is to log every possible malicious activity of an attacker depending on the type of Honeypot system implemented within infrastructure.
+
 Honeypot systems can be used to identify different types of malicious activities such as web applications attacks, known vulnerability exploitation, exploitation of 
 outdated software/system and automated attacks by malicious bots.
 
 ##                        Scope of the Project:
 • The main aim is to analysis and detect the malicious actors and his attack pattern.
+
 • Prediction of the pattern so that the know attack can be mitigated.
