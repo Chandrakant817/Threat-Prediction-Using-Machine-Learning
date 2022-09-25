@@ -1,0 +1,5 @@
+Cluster 0 consists of mostly 162.142.(125+ and also some < then 125) subnets. This cluster is not so tight, have a sparsely popolated range of third octet which seem to have possible anomalies  
+
+Cluster 1 consists of mostly 45.134.(26+ and also some < then 26) subnets. This cluster is not so tight, have a sparsely popolated range of third octet which seem to have possible anomalies
+
+Cluster 2 consists of mostly 45.146.(166+ and also some < then 166) subnets. This cluster is not so tight, have a sparsely popolated range of third octet which seem to have possible anomalies

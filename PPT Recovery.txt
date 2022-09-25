@@ -1,0 +1,15 @@
+•	Back up network configuration files
+The main aim is to ensure that a network is restored to its normal state as rapidly as possible. That is why it is important to regularly back up network configuration files, including the initial parameters and settings for configuring network devices. 
+
+•	Regularly test and update the plan
+By regularly testing and updating network disaster plans, it will reduce the chances of panicking when a network disaster occurs. IT recovery team will be more ready and prepared to deal with network disasters. 
+
+
+•	Assess potential risks and threats
+You also need to determine risks and threats which your organization is most exposed to that can disrupt your network services. After assessing potential dangers, you can come up with preventive measures to stop them from occurring to reduce the possible impact on your infrastructure.
+
+•	Create an IT recovery team and assign responsibilities
+It is not enough to create a network disaster recovery plan; you should also decide who will implement the plan when an actual disaster strikes. So, by having an IT team recovery team will have the organization prepared for disaster recovery. Each recovery team member should be assigned with a specific role and a unique set of responsibilities to avoid any confusion and panic during a disaster recovery event.
+
+•	Document steps of the network disaster recovery process.
+By documenting the steps of the network disaster recovery process will avoid confusion when the actual network disaster occurs. By listing the document also helps identify the weakness of the infrastructure of the organization which indirectly reduce network disaster from occurring.

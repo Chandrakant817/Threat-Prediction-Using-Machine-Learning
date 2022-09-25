@@ -1,0 +1,46 @@
+Honeypots are made attractive to attackers by building in deliberate security vulnerabilities. like open ports, using brute force logged passwords
+
+It isn't set up to address a specific problem, like a firewall or anti-virus. Instead, it's an information tool that can help you understand existing threats to your network and spot the emergence of new threats. With the intelligence obtained from a honeypot, security efforts can be prioritized and focused.
+
+The Honeynet will mirror real world implementation of web server, FTP, SMTP and MySql servers.
+This can be implemented by running virtual machines in a subnet simulating a real production server.
+
+The linux server provides a ssh service to act as the target for the attackers.
+
+SSH service has been under attack for the past couple of decades. SSH server provides a convenient repository to launch DoS attacks, spread spam messages, and test new malware.
+
+like
+
+Port scanning is a technique to check if a specific set of ports is open on a public server or not. For carrying out an attack on an SSH server, the first step is to check if the port 22 is available or not.
+
+Brute force attacks are used to know the username and password pair of an account on an SSH server.#### The attacker would try different usernames with different password combinations. Guessing could be done manually or using some automated tools. Automated tools contain a database of commonly used usernames and passwords.####
+
+SSH Honeypotter logs the username and password combinations from users attempting to connect to the system. Once they have gained access, their commands and input provided will be logged.
+
+Supervised machine learning algorithms like Logistic Regression (LR), Support Vector Machine (SVM), Decision Tree (J48), OneR, PART, k-Nearest Neighbour, and Naive Bayes (NB) algorithm. Logistic Regression, SVM, and k-Nearest Neighbour (k-NN) performs well for a dataset with only numeric attributes. 
+
+so the machine learning model will be used to classify the attacks based on attack nature and known attributes
+
+attacks can be categorized into bots or real human from ssh interactions.
+
+split into two data - severe and not so severe attacks
+severe attacks will comprise of successful login followed by execution of unix commands, dos attacks like volume based, protocol attacks, udp flooding etc	
+
+not so severe will comprise of successful login with no unix commands, brute force attacks, port scanning.
+
+Threats can have multiple classes as attack has occurred due to 
+internal privilege escalation or it’s the outside attacker. Hence 
+we are trying to predict class of the threat given the machine is 
+already compromised
+
+but once we will start doing this project we can research more on it
+
+we are trying to basically dummy down the installation and threat prediction of honeypot using machine learning so that it will be easier to control the traffic, protect the production servers againts known active attacks and implement tools to monitor and weed out the anomalies.
+
+data will be sent after processing to gui application for visualizing of attack patters 
+
+one example is attacks usually scan for ssh servers on port 22 u can use tools like endlessh to trap hackers into an infinite loop.. 
+
+mostly attackers dont bother scanning other ports so we can set our ssh server on an uncommon port and implement fail2ban and key authentication.
+
+or if we are able to predict incoming traffic as a ddos attack, all incoming traffic can be rerouted to one or more globally distributed data centers for scrubbing and sending back clean traffic to the target network
