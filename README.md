@@ -35,3 +35,5 @@ outdated software/system and automated attacks by malicious bots.
 The research designed and implemented a real-time Honeynet system using Machine learning for detecting and preventing system attacks. System services on Apache Webserver, MYSQL,FTP and SMTP were used to lure attackers.The problem nowadays is that a very good hacker will most likely be able to understand when he is attacking a honeypot. Low interaction honeypots will be able to identify mostly automated attack and will hardly be able to understand new hacker method. On the other hand, high interaction systems are here to entrap the hacker and make him give away his techniques and tools to the forensic team. The network administrator implementing this kind of honeypot should make sure that the system is completely isolated from the production network. This is the best defense if the hacker compromises the honeypot.
 
 We have proposed a machine learning model to classify SSH attacks based on the attack nature. 
+
+![image](https://user-images.githubusercontent.com/69152112/225087717-cd9b9ca4-053a-439a-9b1b-b6b90fb54fe7.png)
